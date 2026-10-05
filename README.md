@@ -1,5 +1,7 @@
 # KII communication review
 
+*By stp ([@StppStp](https://x.com/StppStp)), by his own description a clown with good intentions whose thinking process is questionable.*
+
 ## Why this exists: the point
 
 *[O] Review statement by stp, based on the evidence in this repo.*
@@ -158,7 +160,3 @@ This is a recommendation based on the public record above. It is not an allegati
 ## Corrections
 
 If anything here is wrong or out of date, the fastest fix is public evidence: a link, a transaction ID or a document. This review will be updated, and each change will be logged in [CHANGELOG.md](CHANGELOG.md).
-
-## About the author
-
-stp ([@StppStp](https://x.com/StppStp)), by his own description a clown with good intentions whose thinking process is questionable.
