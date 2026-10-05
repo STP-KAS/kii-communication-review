@@ -16,7 +16,11 @@ This page states **what was observed and when**. It does **not** claim why anyth
    - Last read publicly: 5 Oct, 01:27–01:28 CEST.
    - Observed behind the login: 5 Oct, 08:23 CEST.
    - This repo does **not** access or reproduce restricted material.
-   - Monitoring continues only on **public pages**, using **Internet Archive (Wayback Machine) snapshots**.
+4. **Monitoring ended on 5 Oct 2026 at 09:40 CEST** (stp's decision).
+   - kaspa-kii.org and zeta-global.org now block the honestly labelled check script, the KII demo and the KiiWORKS Workbench are password-protected, and ZETA's document library is members-only.
+   - These access restrictions are themselves a clear signal, so no further tracking will be done.
+   - No workaround, such as disguising the checker, will be used.
+   - This repo stands as a record as of 5 Oct 2026. Corrections from KII or anyone else with evidence are still welcome ([open an issue](https://github.com/STP-KAS/kii-communication-review/issues)).
 
 ## Full timeline
 
@@ -40,6 +44,7 @@ This page states **what was observed and when**. It does **not** claim why anyth
 | 16 | **5 Oct, 08:22** | The original analysis repo `STP-KAS/kaspa-kii-analysis` is made **private** by its owner. Content and history are unchanged. Old links return 404. | [Visibility check](evidence/web/2026-10-05_0822-CEST_repo-visibility.txt) |
 | 17 | **5 Oct, observed 08:23** | stp's post of 5 Oct 00:02 (2106867660869001661) returns **"Not Found"** from the X API. The Istanbul post also still returns "Not Found". | [API 08:23](evidence/x/2026-10-05_0823-CEST_x-api-posts-not-found.json) |
 | 18 | **5 Oct, 08:25** | **This repo is created**, public (first commit `f334ddc` at 08:25:25). It contains no ZETA drafts and no "Private & Confidential" material. | [Visibility check](evidence/web/2026-10-05_0822-CEST_repo-visibility.txt); this repo's git history |
+| 19 | **5 Oct, 09:40** | **Monitoring ended** (stp's decision). kaspa-kii.org and zeta-global.org now block the honestly labelled check script, the KII demo and the KiiWORKS Workbench are password-protected, and ZETA's document library is members-only. These access restrictions are themselves a clear signal, so no further tracking will be done. No workaround, such as disguising the checker, will be used. This repo stands as a record as of 5 Oct 2026. Corrections from KII or anyone else with evidence are still welcome ([open an issue](https://github.com/STP-KAS/kii-communication-review/issues)). | User-agent blocks: [test 07:39](evidence/web/2026-10-05_0739-CEST_access-changes.txt) (row 14); password protection: row 13 and [CHRONOLOGY.md](CHRONOLOGY.md) 5–6; members-only library: [header check 08:23](evidence/web/2026-10-05_0823-CEST_zeta-corpus-members-only.txt) (row 15) |
 
 ## Notes
 

@@ -33,6 +33,8 @@ Hashes of these files: [SHA256SUMS.txt](SHA256SUMS.txt).
 | Tripwire baseline state, 5 Oct 01:27–01:28 (last public read of the demo hosts and the ZETA corpus) | `529a842251b04ccbb1f7ac9af0c3330996d1a404977c2e8b5325feb5792828b6` |
 | Tripwire report, 5 Oct 07:37 (first detection of the password gate and the user-agent block) | `fe5e8d73533b5a9753df06abbe6e74b2e43ac6c7f56848ba3ff064d660f2c418` |
 
+Monitoring ended on 5 Oct 2026 at 09:40 CEST (stp's decision; see [WHAT-HAPPENED.md](WHAT-HAPPENED.md) row 19). No further tripwire reports will be added.
+
 ## Public sources
 
 | Source | Link |

@@ -2,6 +2,8 @@
 
 The full timeline, including the original repo going private and this repo's creation, is in [WHAT-HAPPENED.md](WHAT-HAPPENED.md).
 
+> **Status: monitoring ended on 5 Oct 2026 at 09:40 CEST** (stp's decision). kaspa-kii.org and zeta-global.org now block the honestly labelled check script, the KII demo and the KiiWORKS Workbench are password-protected, and ZETA's document library is members-only. These access restrictions are themselves a clear signal, so no further tracking will be done. No workaround, such as disguising the checker, will be used. This repo stands as a record as of 5 Oct 2026. Corrections from KII or anyone else with evidence are still welcome ([open an issue](https://github.com/STP-KAS/kii-communication-review/issues)).
+
 All times are Brussels time (CEST, UTC+2). Each entry gives:
 - the time window;
 - what was public before;
