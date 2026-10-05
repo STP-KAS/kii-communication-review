@@ -1,4 +1,5 @@
 b8252169a40e3c941000b72687b90ee72b9e62193b37eb6b4bba1cf9968e611d  evidence/web/2026-10-05_0739-CEST_access-changes.txt
+563f87293be2109684496cc9f9a205640aeb1dd4fb50cc0b65b23c8dbc7fa93b  evidence/web/2026-10-05_0822-CEST_repo-visibility.txt
 7ed09453b513bbafcc9a8d414bb13c29d97b97f53718e92e5910c0aba278013f  evidence/web/2026-10-05_0823-CEST_zeta-corpus-members-only.txt
 856a8be4eb29ae63e8d093d6addb45ac870168307e6ca0d2ddb0f2b4357f67e6  evidence/web/kii-site_diff_2026-10-03_vs_2026-10-05.txt
 f2decf0242994dc4ce107308bfb7d69d9f3a74cff63745f1d1f2f80bc0586417  evidence/x/2026-10-03_2256-CEST_kaspakii-has-blocked-you-profile-view.png

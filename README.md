@@ -6,10 +6,13 @@
 
 **Labels:** **[F]** checked fact with a source. **[C]** claim by KII, not independently verified. **[O]** opinion of this review.
 
+> **What happened (3–5 Oct 2026):** the original analysis repo `STP-KAS/kaspa-kii-analysis` was made private on 5 Oct 2026 at 08:22 CEST, and old links to it now return 404; this repo replaces it. Full dated timeline: **[WHAT-HAPPENED.md](WHAT-HAPPENED.md)**.
+
 **Files:**
 
 | File | What it contains |
 | --- | --- |
+| [WHAT-HAPPENED.md](WHAT-HAPPENED.md) | What happened, 3–5 Oct 2026: the full timeline, including why the original repo went private |
 | [CHRONOLOGY.md](CHRONOLOGY.md) | Content that was deleted, unpinned, password-gated or blocked, 3–5 Oct 2026 |
 | [DELIVERY.md](DELIVERY.md) | What was promised, proven and delivered; KONI; claims dated against the Kaspa protocol |
 | [COMMUNICATION.md](COMMUNICATION.md) | The communication findings |
@@ -20,7 +23,7 @@
 
 ## Why
 
-This repository replaces an earlier research repository (`STP-KAS/kaspa-kii-analysis`), which was made **private on 5 Oct 2026 at 08:22 CEST**. Its content and history are kept unchanged in the private archive.
+This repository replaces an earlier research repository (`STP-KAS/kaspa-kii-analysis`), which was made **private on 5 Oct 2026 at 08:22 CEST**. Its content and history are kept unchanged in the private archive. **Old links to `kaspa-kii-analysis`, in stp's earlier X replies and in the comment on its issue #1, now return 404. This repo replaces them.** See [WHAT-HAPPENED.md](WHAT-HAPPENED.md).
 
 **Reason:** the research repo held working copies and excerpts of draft ZETA standards and of a KII brief marked "Private & Confidential".
 - Those ZETA drafts were publicly reachable when they were collected (4–5 Oct 2026). They are now behind a members-only login.

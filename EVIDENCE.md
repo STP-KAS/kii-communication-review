@@ -15,6 +15,7 @@ SHA-256 hashes let anyone check a copy of a file. Files under `evidence/` are in
 | [evidence/x/original-videos-sha256.txt](evidence/x/original-videos-sha256.txt) | Hashes of the three Istanbul videos, downloaded before deletion |
 | [evidence/web/kii-site_diff_2026-10-03_vs_2026-10-05.txt](evidence/web/kii-site_diff_2026-10-03_vs_2026-10-05.txt) | Text diff of the KII website, 3 Oct 20:55 vs 5 Oct 00:09 |
 | [evidence/web/2026-10-05_0739-CEST_access-changes.txt](evidence/web/2026-10-05_0739-CEST_access-changes.txt) | HTTP headers: demo hosts behind a password; user-agent test on kaspa-kii.org and zeta-global.org |
+| [evidence/web/2026-10-05_0822-CEST_repo-visibility.txt](evidence/web/2026-10-05_0822-CEST_repo-visibility.txt) | The original repo made private (08:22); old links return 404; this repo created (08:25) |
 | [evidence/web/2026-10-05_0823-CEST_zeta-corpus-members-only.txt](evidence/web/2026-10-05_0823-CEST_zeta-corpus-members-only.txt) | HTTP headers: ZETA corpus redirected to a members-only login |
 
 Hashes of these files: [SHA256SUMS.txt](SHA256SUMS.txt).
@@ -29,6 +30,7 @@ Hashes of these files: [SHA256SUMS.txt](SHA256SUMS.txt).
 | kaspa-kii.org /foundation/, 3 Oct / 5 Oct | `d6e1a0faea9691a228e6862dfcb211cf2b4f550240b9da3dd1bd2de36b840412` / `ec415a9ec9d4999bb48a203c9608893e44da833f8b8bd557c49d459db883e3e9` |
 | kaspa-kii.org /contact/, 3 Oct / 5 Oct | `617141229b818cf6d5363b040724cc8e68121259829f62f53b6cf6444a5eb036` / `ef8bbdfbeee79f73b1a93e1a7c4d824c3cd05c44ddfaa7ad426577aed943e9ee` |
 | Istanbul videos 1–3 | see [original-videos-sha256.txt](evidence/x/original-videos-sha256.txt) |
+| Tripwire baseline state, 5 Oct 01:27–01:28 (last public read of the demo hosts and the ZETA corpus) | `529a842251b04ccbb1f7ac9af0c3330996d1a404977c2e8b5325feb5792828b6` |
 | Tripwire report, 5 Oct 07:37 (first detection of the password gate and the user-agent block) | `fe5e8d73533b5a9753df06abbe6e74b2e43ac6c7f56848ba3ff064d660f2c418` |
 
 ## Public sources

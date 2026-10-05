@@ -1,0 +1,9 @@
+# Repository visibility check, 5 Oct 2026 (Europe/Brussels, CEST)
+
+08:22:13 CEST: GitHub API PATCH repos/STP-KAS/kaspa-kii-analysis visibility=private, executed by the owner (STP-KAS). Response: private=true visibility=private
+08:22:13 CEST: gh repo view STP-KAS/kaspa-kii-analysis --json visibility -> {"isPrivate":true,"visibility":"PRIVATE"}
+08:22:13 CEST: anonymous GET https://github.com/STP-KAS/kaspa-kii-analysis -> HTTP 404
+08:29 CEST re-check: anonymous GET https://github.com/STP-KAS/kaspa-kii-analysis -> HTTP 404
+08:29 CEST re-check: anonymous GET https://github.com/STP-KAS/kaspa-kii-analysis/issues/1 -> HTTP 404
+
+08:25:25 CEST: first commit f334ddcaff34a6e067a9396181c46e069071e275 of STP-KAS/kii-communication-review; repository created_at 2026-10-05T06:25:26Z (08:25:26 CEST), public.
