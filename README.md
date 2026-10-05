@@ -1,5 +1,21 @@
 # KII communication review
 
+## Why this exists: the point
+
+*[O] My own view (stp), based on the evidence below.*
+
+KII began announcing and promising products before the tools to build them existed. Its public product claims came about **3 to 21 months before covenants went live on Kaspa mainnet** ([DELIVERY.md](DELIVERY.md#claims-dated-against-the-kaspa-protocol)). Crescendo (May 2025) brought about 10 blocks per second, not programmability. Covenants and programmability arrived with **Toccata on 30 Jun 2026**. Back then nobody knew whether Kaspa would deliver. On the core it now does, credit to the Kaspa core developers. Promising products on tools that do not yet exist is, in my judgement, not serious.
+
+The pattern: KII puts the Kaspa name in front of industry and institutions, but I can find no audited, verifiable product. Its communication is poor: an April 2025 satellite announcement was still the pinned post in October 2026; a post was deleted after it was publicly questioned; website wording about product status was rewritten without notice; and I was blocked after replying ([WHAT-HAPPENED.md](WHAT-HAPPENED.md), [CHRONOLOGY.md](CHRONOLOGY.md), [COMMUNICATION.md](COMMUNICATION.md), [EVIDENCE.md](EVIDENCE.md)).
+
+This is not how a professional organisation operates. If I were a future customer or partner, I would look at this record and think twice; on the current record, I would not engage with KII.
+
+Perhaps real work is happening under NDAs with partners who have concrete goals. I hope so. But in public only the record can be judged, and it has cost KII credibility.
+
+That is the goal of this repo: to make that point with evidence, not to dump documents or to break KII. What would change my view: audited products, verifiable mainnet transactions, open code or specifications, and honest corrections.
+
+---
+
 **Subject:** the Kaspa Industrial Initiative (KII / "Kii", Stichting Kii Foundation, [@KaspaKii](https://x.com/KaspaKii), [kaspa-kii.org](https://kaspa-kii.org)).
 
 **Status:** published **5 Oct 2026** (Brussels time, CEST). Community review by STP-KAS (stp), researched with an AI agent. This is not an audit and not legal or investment advice.
