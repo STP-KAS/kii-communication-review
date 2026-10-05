@@ -1,0 +1,84 @@
+--- /dev/fd/63	2026-10-05 00:14:06.747319056 +0200
++++ /dev/fd/62	2026-10-05 00:14:06.747319056 +0200
+@@ -1,4 +1,4 @@
+-===== kii_index.html
++===== t5/kii_index.html
+ Kii · Payments. Assets. Trade. Made provable.
+ 01
+ WarpCore
+@@ -24,7 +24,7 @@
+ Talk to the team
+ Payments. Assets. Trade.
+ Made provable.
+-Three industrial-grade systems that anchor bank messages, financial instruments, and product records to the Kaspa blockDAG: verifiable by anyone, controlled by no one. Built, tested, ready for launch.
++Three industrial-grade systems that anchor bank messages, financial instruments, and product records to the Kaspa blockDAG: verifiable by anyone, controlled by no one. KiiWORKS anchors on Kaspa mainnet today; WarpCore and Meridian are built.
+ See the flagships
+ ↓
+ Read the docs
+@@ -105,10 +105,11 @@
+ Covenants
+ Native transaction-level rules that enforce custody and lineage invariants on-chain, without a general-purpose VM's attack surface.
+ The commons is separate from the commerce.
+-Covenant patterns, standards, and research are stewarded by Stichting Kii Foundation, a Dutch non-profit, legally distinct from the commercial vehicles that operate these products.
++Covenant patterns, standards, and research are stewarded by Stichting Kii Foundation, a Dutch non-profit, legally distinct from the commercial products. The Foundation does not develop, sell, or operate them.
++Products are built and operated by KiiLabs.
+ Foundation
+ →
+-Launching on Kaspa
++Built on Kaspa
+ If it matters, make it
+ provable
+ .
+@@ -131,7 +132,7 @@
+ Why Kaspa
+ The Foundation
+ Contact
+-Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products operated by separate commercial vehicles, not by the Foundation.
++Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products built and operated by KiiLabs, not by the Foundation.
+ © 2026 Kaspa Industrial Initiative
+ LINK https://portrait.kaspa-kii.org
+ LINK https://portrait.kaspa-kii.org
+--- /dev/fd/63	2026-10-05 00:14:06.751319051 +0200
++++ /dev/fd/62	2026-10-05 00:14:06.751319051 +0200
+@@ -1,4 +1,4 @@
+-===== kii_foundation.html
++===== t5/kii_foundation_.html
+ The Foundation · Stichting Kii · Kaspa Industrial Initiative
+ 01
+ WarpCore
+@@ -41,7 +41,8 @@
+ The commons, protected
+ The Foundation holds the public-benefit mandate. It does not bill, audit, or certify, and Foundation-level token issuance is prohibited under its rules.
+ The commons is separate from the commerce.
+-WarpCore, Meridian, and KiiWORKS are commercial products operated by separate commercial vehicles, not by the Foundation.
++The Foundation is not a developer or vendor of products. WarpCore, Meridian, and KiiWORKS are commercial products, not Foundation products; the Foundation presents them as reference examples of industrial applications on Kaspa.
++Products are built and operated by KiiLabs.
+ foundation@kaspa-kii.org
+ →
+ Standards bodies, regulators, and research partners engage through the Foundation.
+@@ -63,7 +64,7 @@
+ Why Kaspa
+ The Foundation
+ Contact
+-Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products operated by separate commercial vehicles, not by the Foundation.
++Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products built and operated by KiiLabs, not by the Foundation.
+ © 2026 Kaspa Industrial Initiative
+ LINK https://portrait.kaspa-kii.org
+ LINK https://portrait.kaspa-kii.org
+--- /dev/fd/63	2026-10-05 00:14:06.751319051 +0200
++++ /dev/fd/62	2026-10-05 00:14:06.755319047 +0200
+@@ -1,4 +1,4 @@
+-===== kii_contact.html
++===== t5/kii_contact_.html
+ Contact · Kaspa Industrial Initiative
+ 01
+ WarpCore
+@@ -74,7 +74,7 @@
+ Why Kaspa
+ The Foundation
+ Contact
+-Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products operated by separate commercial vehicles, not by the Foundation.
++Stichting Kii Foundation is a Dutch non-profit stewarding public goods for the Kaspa ecosystem. WarpCore, Meridian, and KiiWORKS are commercial products built and operated by KiiLabs, not by the Foundation.
+ © 2026 Kaspa Industrial Initiative
+ LINK https://portrait.kaspa-kii.org
+ LINK https://portrait.kaspa-kii.org

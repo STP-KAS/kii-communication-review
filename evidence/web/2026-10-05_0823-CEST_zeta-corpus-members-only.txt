@@ -1,0 +1,10 @@
+# ZETA corpus access check, 2026-10-05 08:23 CEST. curl -sI with curl's default user agent; headers only, nothing behind the login was fetched.
+
+## https://zeta-global.org/corpus/ZETA_Reference_Implementation_Note.md
+HTTP/2 301 
+location: /members/corpus/ZETA_Reference_Implementation_Note.md
+
+## https://zeta-global.org/members/corpus/ZETA_Reference_Implementation_Note.md
+HTTP/2 302 
+www-authenticate: Cloudflare-Access resource_metadata="https://zeta-global.org/.well-known/cloudflare-access-protected-resource/members/corpus/ZETA_Reference_Implementation_Note.md"
+location: https://zeta-global.cloudflareaccess.com/cdn-cgi/access/login/zeta-global.org?... (Cloudflare Access login; token parameters omitted)

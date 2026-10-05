@@ -1,0 +1,61 @@
+# Access check, 2026-10-05 07:39 CEST (box clock Europe/Brussels). Commands: curl -sI with the UA shown. Response headers only; no content fetched behind auth.
+
+## https://anchorage.kaspa-kii.org/  (UA: generic browser)
+HTTP/2 401 
+cache-control: no-store
+content-type: text/plain;charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+www-authenticate: Basic realm="Kii private", charset="UTF-8"
+x-robots-tag: noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai
+
+
+## https://anchorage.kaspa-kii.org/console/run.json  (UA: generic browser)
+HTTP/2 401 
+cache-control: no-store
+content-type: text/plain;charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+www-authenticate: Basic realm="Kii private", charset="UTF-8"
+x-robots-tag: noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai
+
+
+## https://kiiworkspublicdemo.kaspa-kii.org/  (UA: generic browser)
+HTTP/2 401 
+cache-control: no-store
+content-type: text/plain;charset=UTF-8
+server: Netlify
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+www-authenticate: Basic realm="Kii private", charset="UTF-8"
+x-robots-tag: noindex, nofollow, noarchive, nosnippet, noimageindex, noai, noimageai
+
+
+## https://portrait.kaspa-kii.org/  (UA: generic browser)
+HTTP/2 200 
+accept-ranges: bytes
+age: 0
+cache-control: public,max-age=0,must-revalidate
+cache-status: "Netlify Edge"; fwd=miss; fwd-status=200; stored
+content-security-policy: default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'
+content-type: text/html; charset=UTF-8
+etag: W/"95b46d0bf6df7993ca1897b031fde4a1-ssl-df"
+referrer-policy: no-referrer
+server: Netlify
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: DENY
+
+
+## User-agent test against https://kaspa-kii.org/ (Netlify) and https://zeta-global.org/ (Cloudflare): HTTP status
+"kaspa-kii-analysis-tripwires/1.0 (+https://github.com/STP-KAS/kaspa-kii-analysis)"        403 403
+"kaspa-kii-analysis"                                                                       403 403
+"tripwires/1.0"                                                                            403 403
+"kaspa-kii"                                                                                200 200
+"tripwires"                                                                                200 200
+"STP-KAS"                                                                                  200 200
+"curl/8.5.0"                                                                               200 200
+"Mozilla/5.0 (X11; Linux x86_64)"                                                          200 200
