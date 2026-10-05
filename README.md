@@ -2,17 +2,17 @@
 
 ## Why this exists: the point
 
-*[O] My own view (stp), based on the evidence below.*
+*[O] Review statement by stp, based on the evidence in this repo.*
 
-KII began announcing and promising products before the tools to build them existed. Its public product claims came about **3 to 21 months before covenants went live on Kaspa mainnet** ([DELIVERY.md](DELIVERY.md#claims-dated-against-the-kaspa-protocol)). Crescendo (May 2025) brought about 10 blocks per second, not programmability. Covenants and programmability arrived with **Toccata on 30 Jun 2026**. Back then nobody knew whether Kaspa would deliver. On the core it now does, credit to the Kaspa core developers. Promising products on tools that do not yet exist is, in my judgement, not serious.
+**Timing.** KII began announcing products before the Kaspa features they would rely on existed. Its public product claims came about **3 to 21 months before covenants went live on Kaspa mainnet** ([DELIVERY.md](DELIVERY.md#claims-dated-against-the-kaspa-protocol)). Crescendo (May 2025) brought about 10 blocks per second, not programmability; covenants arrived with **Toccata on 30 Jun 2026**. At the time nobody knew whether Kaspa would deliver. On the core it now does, credit to the Kaspa core developers. In my judgement, promising products on tools that do not yet exist is not serious.
 
-The pattern: KII puts the Kaspa name in front of industry and institutions, but I can find no audited, verifiable product. Its communication is poor: an April 2025 satellite announcement was still the pinned post in October 2026; a post was deleted after it was publicly questioned; website wording about product status was rewritten without notice; and I was blocked after replying ([WHAT-HAPPENED.md](WHAT-HAPPENED.md), [CHRONOLOGY.md](CHRONOLOGY.md), [COMMUNICATION.md](COMMUNICATION.md), [EVIDENCE.md](EVIDENCE.md)).
+**Record.** KII presents the Kaspa name to industry and institutions. Its public record shows: launch language without public access ("Launching Today", WarpCore sandbox, 5 Jan 2026); test results without artefacts ("286 transaction type tests, 100% pass"); no audited product I could verify; an April 2025 satellite announcement still pinned in October 2026; a post deleted after it was publicly questioned; product-status wording on its website changed without notice; and my account blocked after I replied ([COMMUNICATION.md](COMMUNICATION.md), [WHAT-HAPPENED.md](WHAT-HAPPENED.md), [CHRONOLOGY.md](CHRONOLOGY.md), [EVIDENCE.md](EVIDENCE.md)).
 
-This is not how a professional organisation operates. If I were a future customer or partner, I would look at this record and think twice; on the current record, I would not engage with KII.
+**Assessment.** This is not how a professional organisation operates. If I were a future customer or partner, I would look at this record and think twice; on the current record, I would not engage with KII.
 
-Perhaps real work is happening under NDAs with partners who have concrete goals. I hope so. But in public only the record can be judged, and it has cost KII credibility.
+**Fairness.** Real work may be happening under NDAs with partners who have concrete goals. I hope so. In public, only the record can be judged, and that record has cost KII credibility.
 
-That is the goal of this repo: to make that point with evidence, not to dump documents or to break KII. What would change my view: audited products, verifiable mainnet transactions, open code or specifications, and honest corrections.
+**The message.** KII still has to prove itself. Until it does, it should keep Kaspa out of its problems: no Kaspa name on unverified claims. What would change my view: audited products, verifiable mainnet transaction IDs, open code or specifications, a named partner who confirms a pilot, and honest corrections. This repo exists to make that case with evidence, not to publish documents or to harm KII.
 
 ---
 
